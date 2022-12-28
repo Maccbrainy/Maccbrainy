@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Christopher C. M. Iketaku.</h2>
+<h2> Hey there! I'm Michael C. C. Iketaku.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
