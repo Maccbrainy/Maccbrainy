@@ -10,6 +10,7 @@
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
