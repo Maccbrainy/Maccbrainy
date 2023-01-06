@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate about web technologies. 
+- 🤔 &nbsp; Willing to learn new web technologies. 
 - 🎓 &nbsp; Currently working on some of my projects based on Web Applications.
-- 💼 &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 💼 &nbsp; I'm also currently looking for opportunities, to learn and contribute in any and every possible way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
