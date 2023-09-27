@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Michael C. C. Iketaku.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 &nbsp; I'm currently looking for opportunities, to learn and contribute in any and every possible way.
+- 💼 &nbsp; I'm a builder. I love technology in every form and medium, learning new things every day, and constantly tackling new challenges.
 
 <h3> 🛠 &nbsp;My Tool Box</h3>
 
