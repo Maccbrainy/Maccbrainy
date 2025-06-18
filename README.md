@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Michael C. C. Iketaku.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 &nbsp; A passionate builder; an unimpeachable software engineer. JavaScript/TypeScript Engineer - NodeJs Developer, NestJs Developer, React Developer, Vue Developer and WordPress Developer.
+- 💼 &nbsp; A builder; an experienced software engineer. JavaScript/TypeScript Engineer - NodeJs Developer, NestJs Developer, React Developer, Vue Developer and WordPress Developer.
 
 <h3> 🛠 &nbsp;My Tool Box</h3>
 
