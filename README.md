@@ -1,13 +1,13 @@
 <h2> Hey there! I'm Michael C. C. Iketaku.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 &nbsp; Maccbrainy is an experienced and performance-driven full-stack software engineer with a track record of building and scaling production-grade SaaS applications.
+- 💼 &nbsp; An experienced and performance-driven full-stack software engineer with a track record of building and scaling production-grade SaaS applications.
 
 <h3> 🛠 &nbsp;Professional Profile & Technical Expertise</h3>
 <p>He specializes in backend engineering and frontend web development, commonly building systems with the following stack:</p>
 
 - 🌐 &nbsp;Languages:
-  ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -20,9 +20,8 @@
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
   
 - 🔧 &nbsp;Architecture:
-  ![Microservices](https://shields.io)
-  ![RESTful API](https://shields.io)
-
+  ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
+  ![RESTful API](https://img.shields.io/badge/-RESTful API Backend Development-333333?style=flat&logo=RESTful API)
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
