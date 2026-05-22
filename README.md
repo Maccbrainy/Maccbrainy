@@ -5,10 +5,9 @@
 
 <h3> 🛠 &nbsp;Professional Profile & Technical Expertise</h3>
 <p>He specializes in backend engineering and frontend web development, commonly building systems with the following stack:</p>
-- 🌐 &nbsp;
-- <h6>Languages:</h6> Golang, TypeScript, JavaScript, and PHP
-- <h6>Frameworks & Libraries:</h6> NestJS, React, and Vue.js
-- <h6>Architecture:</h6> Microservices and RESTful API backend development
+- Languages: Golang, TypeScript, JavaScript, and PHP
+- Frameworks & Libraries: NestJS, React, and Vue.js
+- Architecture: Microservices and RESTful API backend development
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
