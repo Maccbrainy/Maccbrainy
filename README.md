@@ -1,9 +1,14 @@
 <h2> Hey there! I'm Michael C. C. Iketaku.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 &nbsp; A builder; an experienced software engineer. JavaScript/TypeScript Engineer - NodeJs Developer, NestJs Developer, React Developer, Vue Developer and WordPress Developer.
+- 💼 &nbsp; Maccbrainy is an experienced and performance-driven full-stack software engineer with a track record of building and scaling production-grade SaaS applications.
 
-<h3> 🛠 &nbsp;My Tool Box</h3>
+<h3> 🛠 &nbsp;Professional Profile & Technical Expertise</h3>
+<p>He specializes in backend engineering and frontend web development, commonly building systems with the following stack:</p>
+- 🌐 &nbsp;
+- <h6>Languages:</h6> Golang, TypeScript, JavaScript, and PHP
+- <h6>Frameworks & Libraries:</h6> NestJS, React, and Vue.js
+- <h6>Architecture:</h6> Microservices and RESTful API backend development
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
