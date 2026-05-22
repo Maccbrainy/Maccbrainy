@@ -7,10 +7,10 @@
 <p>He specializes in backend engineering and frontend web development, commonly building systems with the following stack:</p>
 
 - 🌐 &nbsp;Languages:
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=golang)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=php)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   
 - ⚙️ &nbsp;Frameworks & Libraries:
   ![NestJs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs)
@@ -22,8 +22,6 @@
 - 🔧 &nbsp;Architecture:
   ![Microservices]
   ![RESTful API backend development]
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
