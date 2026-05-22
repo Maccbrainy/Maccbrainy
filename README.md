@@ -22,10 +22,9 @@
   
 - 🔧 &nbsp;Architecture:
   ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
-  ![RESTful_API](https://img.shields.io/badge/-RESTful-API-333333?style=flat&logo=RESTful_API)
+  ![RESTful](https://img.shields.io/badge/-RESTful-333333?style=flat&logo=RESTful)
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="left">
 <a href="mailto:iketakuchineduchris@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iketakuchineduchris@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
