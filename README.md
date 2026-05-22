@@ -23,8 +23,11 @@
 - 🔧 &nbsp;Architecture:
   ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
   ![RESTful](https://img.shields.io/badge/-RESTful-333333?style=flat&logo=RESTful)
-<br/>
+
+<h3> 🌐 &nbsp;Notable Open-Source Projects</h3>
+<p>Some of his prominently featured personal projects include clones of popular platforms are pinned below</p>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="mailto:iketakuchineduchris@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iketakuchineduchris@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:iketakumichaelnedum@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iketakumichaelnedum@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
