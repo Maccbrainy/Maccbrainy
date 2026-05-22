@@ -15,16 +15,17 @@
 - ⚙️ &nbsp;Frameworks & Libraries:
   ![NestJs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=Nextjs)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
   
 - 🔧 &nbsp;Architecture:
   ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
-  ![RESTful API](https://img.shields.io/badge/-RESTful API Backend Development-333333?style=flat&logo=RESTful API)
+  ![RESTful_API](https://img.shields.io/badge/-RESTful-API-333333?style=flat&logo=RESTful_API)
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="mailto:iketakumichaelnedum@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iketakumichaelnedum@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:iketakuchineduchris@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iketakuchineduchris@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
